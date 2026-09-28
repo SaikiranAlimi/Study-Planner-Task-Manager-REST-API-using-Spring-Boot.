@@ -1,0 +1,46 @@
+### 1. Create a Task
+POST http://localhost:8080/api/tasks
+Content-Type: application/json
+
+{
+  "title": "Learn Spring Boot 3",
+  "subject": "Java",
+  "description": "Complete REST API endpoints and tests",
+  "priority": "HIGH",
+  "status": "IN_PROGRESS",
+  "dueDate": "2026-10-15"
+}
+
+### 2. Get All Tasks
+GET http://localhost:8080/api/tasks
+
+### 3. Get Task by ID
+GET http://localhost:8080/api/tasks/1
+
+### 4. Filter Tasks by Status
+GET http://localhost:8080/api/tasks?status=IN_PROGRESS
+
+### 5. Filter Tasks by Priority and Subject
+GET http://localhost:8080/api/tasks?priority=HIGH&subject=Java
+
+### 6. Mark Task as Complete
+PATCH http://localhost:8080/api/tasks/1/complete
+
+### 7. Update Task
+PUT http://localhost:8080/api/tasks/1
+Content-Type: application/json
+
+{
+  "title": "Master Spring Boot 3",
+  "subject": "Java",
+  "description": "All endpoints tested and verified",
+  "priority": "HIGH",
+  "status": "COMPLETED",
+  "dueDate": "2026-10-25"
+}
+
+### 8. Get Tasks Summary
+GET http://localhost:8080/api/tasks/summary
+
+### 9. Delete Task
+DELETE http://localhost:8080/api/tasks/1

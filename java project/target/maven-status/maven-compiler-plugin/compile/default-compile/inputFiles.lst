@@ -1,0 +1,13 @@
+C:\Users\alimi\OneDrive\Documents\ChatGPT\java project\src\main\java\com\alimi\studyplanner\controller\TaskController.java
+C:\Users\alimi\OneDrive\Documents\ChatGPT\java project\src\main\java\com\alimi\studyplanner\dto\TaskRequest.java
+C:\Users\alimi\OneDrive\Documents\ChatGPT\java project\src\main\java\com\alimi\studyplanner\dto\TaskResponse.java
+C:\Users\alimi\OneDrive\Documents\ChatGPT\java project\src\main\java\com\alimi\studyplanner\dto\TaskSummary.java
+C:\Users\alimi\OneDrive\Documents\ChatGPT\java project\src\main\java\com\alimi\studyplanner\exception\ApiError.java
+C:\Users\alimi\OneDrive\Documents\ChatGPT\java project\src\main\java\com\alimi\studyplanner\exception\GlobalExceptionHandler.java
+C:\Users\alimi\OneDrive\Documents\ChatGPT\java project\src\main\java\com\alimi\studyplanner\exception\TaskNotFoundException.java
+C:\Users\alimi\OneDrive\Documents\ChatGPT\java project\src\main\java\com\alimi\studyplanner\model\Priority.java
+C:\Users\alimi\OneDrive\Documents\ChatGPT\java project\src\main\java\com\alimi\studyplanner\model\Task.java
+C:\Users\alimi\OneDrive\Documents\ChatGPT\java project\src\main\java\com\alimi\studyplanner\model\TaskStatus.java
+C:\Users\alimi\OneDrive\Documents\ChatGPT\java project\src\main\java\com\alimi\studyplanner\repository\TaskRepository.java
+C:\Users\alimi\OneDrive\Documents\ChatGPT\java project\src\main\java\com\alimi\studyplanner\service\TaskService.java
+C:\Users\alimi\OneDrive\Documents\ChatGPT\java project\src\main\java\com\alimi\studyplanner\StudyPlannerApplication.java
